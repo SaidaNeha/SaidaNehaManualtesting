@@ -8,4 +8,4 @@ https://docs.google.com/spreadsheets/d/1vbPDx3-apH34HLowSsWKas_0aziXzClO/edit?rt
 
 |Project | Description |Tools used|
 |--------|-------------|----------|
-|project 1|tested web functionality and ussability| test plan and tc doc|
+|Project 1|Tested a web application for functionality and usability.| Test plan, TC doc|
